@@ -1,0 +1,13 @@
+{
+  "name": "bravo-landing",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "jquery": "~2.1.1",
+    "particles.js": "particles-js#^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0"
+  }
+}
